@@ -47,4 +47,6 @@ Christos Davatzikos, PhD (1,2)
 
 10. School of Computing and Department of Biomedical and Molecular Sciences, Queen’s University, Kingston, Ontario, Canada
 
+### Summary
+
 The proposed IML-based segmentation method offers the capability to derive patient-specific machine learning models, resulting in annotations comparable to, and in some cases better than, expert-drawn manual annotations, both in terms of accuracy and consistency, while offering a significant gain in speed. Quantitative evaluation in multiple anatomical structures supports this method’s generalizability and promise for real-world application, facilitating faster generation of expert annotations
