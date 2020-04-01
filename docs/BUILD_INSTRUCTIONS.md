@@ -173,6 +173,7 @@ Note: Change all instances of "Release" to "Debug" for a "Debug" build.
 - Locate "MITK_BUILD_org.mitk.gui.qt.segmentation" and set it to true
 - Locate "MITK_BUILD_org.mitk.gui.qt.multilabelsegmentation" and set it to true
 - They would be enabled, but for reference: our plugin is enabled/disabled by "MITK_BUILD_upenn.cbica.captk.interactivesegmentation" and MITK Workbench - the GUI - by "MITK_BUILD_APP_Workbench".
+- Set CMAKE_EXPORT_COMPILE_COMMANDS to true (this can help visual studio code and other IDEs pick up the headers.
 - Configure
 - Generate
 
