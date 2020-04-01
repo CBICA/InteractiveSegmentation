@@ -4,7 +4,7 @@
 
 - 64bit system, it won't work on 32bit.
 - [git 2.21.0.windows.1](https://git-scm.com/downloads) (version not important unless the interface changes)
-- [cmake 3.12.2-win64-x64](https://github.com/Kitware/CMake/releases/tag/v3.12.2)
+- [cmake 3.12.2](https://github.com/Kitware/CMake/releases/tag/v3.12.2)
 - [MITK v2018.04.2](https://github.com/MITK/MITK), more instructions on this below
 - [Qt 5.11.1](https://www.qt.io/): Download and install using open-source license. This version is slightly old even now, so look for it in the archive when installing. We need the following components: "Desktop gcc (or msvc2017) 64-bit", "Qt WebEngine", and "Qt Script". On Windows install in short path, like ```C:\Qt```. On linux you can install it wherever you want, but ```/home/YOUR_USERNAME/Work/Qt``` is a good place to be reduce clutter in accordance to what happens below.
 
