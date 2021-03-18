@@ -20,7 +20,6 @@
 #include <usGetModuleContext.h>
 #include <usModule.h>
 #include <usModuleContext.h>
-#include <usModuleResource.h>
 #include <usModuleResourceStream.h>
 
 // Qt
@@ -31,8 +30,6 @@
 
 // CaPTk
 #include "CaPTkInteractiveSegmentation.h"
-
-#include "tinyxml.h"
 
 #include <itksys/SystemTools.hxx>
 
