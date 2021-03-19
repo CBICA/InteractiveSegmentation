@@ -70,7 +70,7 @@ void SvmSuite::Manager::Train()
 				);
 				message("", false, true);
 			}
-			catch (cv::Exception ex) {
+			catch (cv::Exception& ex) {
 				errorOccured(ex.what());
 			}
 

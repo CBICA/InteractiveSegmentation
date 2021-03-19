@@ -7,6 +7,11 @@
 
 #include "ui_QmitkCaPTkInteractiveSegmentationControls.h"
 
+// us
+#include <usModuleResource.h>
+
+#include <mitkNodePredicateAnd.h>
+
 class CaPTkInteractiveSegmentation;
 
 // berry
